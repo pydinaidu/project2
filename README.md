@@ -3,9 +3,6 @@
 
 •	Launching Jenkins on EC2 Instance: The first step was setting up an EC2 instance on AWS and installing Jenkins to facilitate continuous integration and deployment.
  
-
- 
-
 •	Installing and Configuring Maven: To manage dependencies and build the project, I installed Maven, a popular build automation tool, and configured it to ensure smooth project compilation.
 
 Install Maven Commands  
@@ -34,8 +31,6 @@ Install Maven Commands
 1.Install maven plugin and configure jenkins for maven Manage Jenkins-plugins-maven integration
 
  
-
-
 Set maven path in Jenkins
 
  
